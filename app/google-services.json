@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "154237806163",
+    "project_id": "retrofitcoctail",
+    "storage_bucket": "retrofitcoctail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154237806163:android:393b0239e71328e94988a6",
+        "android_client_info": {
+          "package_name": "com.mindorks.framework.retrofitcoctail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154237806163-mcqcmh4958v116ejes1cth1q3lrgua1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindorks.framework.retrofitcoctail",
+            "certificate_hash": "6bc5d3a4f5205dd1188fb0700dc3dc17c4e923d3"
+          }
+        },
+        {
+          "client_id": "154237806163-53oc7ouat3q0kcihrc7jltgt2bhgfpiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgCzmN4fpdFRdR-NqW_Gfx5yyF_pW5mNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154237806163-53oc7ouat3q0kcihrc7jltgt2bhgfpiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
